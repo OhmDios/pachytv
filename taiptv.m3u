@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 ,Sneh TAMIL (HD)- ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
-#EXTINF:-1 ,Sneh TAMIL (HD)- COLORS TAMIL HD
+#EXTINF:-1 ,GENERAL- COLORS TAMIL HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
-#EXTINF:-1 ,Sneh TAMIL (HD)- DD PODHIGAI
+#EXTINF:-1 ,GENERAL- DD PODHIGAI
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
 #EXTINF:-1 ,Sneh TAMIL (HD)- FOX LIFE HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
-#EXTINF:-1 ,Sneh TAMIL (HD)- JAYA TV HD
+#EXTINF:-1 ,GENERAL- JAYA TV HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40814
 #EXTINF:-1 ,Sneh TAMIL (HD)- KTV HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
@@ -19,19 +19,19 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40821
 #EXTINF:-1 ,Sneh TAMIL (HD)- SONY BBC EARTH HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
-#EXTINF:-1 ,Sneh TAMIL (HD)- STAR VIJAY HD
+#EXTINF:-1 ,GENERAL- STAR VIJAY HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
 #EXTINF:-1 ,Sneh TAMIL (HD)- SUN LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
-#EXTINF:-1 ,Sneh TAMIL (HD)- SUN TV HD
+#EXTINF:-1 ,GENERAL- SUN TV HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
-#EXTINF:-1 ,Sneh TAMIL (HD)- ZEE TAMIL HD
+#EXTINF:-1 ,GENERAL- ZEE TAMIL HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
 #EXTINF:-1 ,Sneh TAMIL (HD)- ATHAVAN TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
 #EXTINF:-1 ,group-title="Sneh |South India| ",  7SMUSIC
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
-#EXTINF:-1 ,group-title="Sneh |South India| ",  CAPTAIN_TV
+#EXTINF:-1 ,group-title="GENERAL",  CAPTAIN_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86097
 #EXTINF:-1 ,group-title="Sneh |South India| ",  Dheeran_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
@@ -53,11 +53,11 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86111
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86112
 #EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_SIRIPPOLI
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_TV
+#EXTINF:-1 ,group-title="GENERAL",  KALAIGNAR_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
 #EXTINF:-1 ,group-title="Sneh |South India| ",  KALINGA_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86115
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MAKKAL_TV
+#EXTINF:-1 ,group-title="GENERAL ",  MAKKAL_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86119
 #EXTINF:-1 ,group-title="Sneh |South India| ",  MALAI_MURASU_SEITHIKAL
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86120
@@ -65,7 +65,7 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86120
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86121
 #EXTINF:-1 ,group-title="Sneh |South India| ",  MK_SIX
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86127
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MK_TELEVISION
+#EXTINF:-1 ,group-title="GENERAL ",  MK_TELEVISION
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
 #EXTINF:-1 ,group-title="Sneh |South India| ",  MK_TUNES
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86129
@@ -79,7 +79,7 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
 #EXTINF:-1 ,group-title="Sneh |South India| ",  Sun News
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Sun tv HD
+#EXTINF:-1 ,group-title="GENERAL",  Sun tv HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
 #EXTINF:-1 ,group-title="Sneh |South India| ",  SUN_LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
@@ -91,6 +91,6 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86069
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
 #EXTINF:-1 ,group-title="Sneh |South India| ",  WIN_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Zee Tamil HD
+#EXTINF:-1 ,group-title="GENERAL",  Zee Tamil HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
 
