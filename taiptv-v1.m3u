@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1  tvg-id="1" group-title="MOVIES",Zee Thirai
+https://snehz5tv.herokuapp.com?c=0-9-224
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD
+https://snehz5tv.herokuapp.com?c=0-9-zeetamil
+#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",YUPP THIRAI 1
+http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Othres",WIN_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",VASANTH TV 1
+https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1  tvg-id="N/A" group-title="Othres",TAMILAN_TELEVISION
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
+#EXTINF:-1  tvg-id="id" group-title="Group Title",SVBC 2
+https://m-c049-j2apps.s.llnwi.net/hls/5331.SVBC2.in.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="OLD",SUN_LIFE
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Sun tv HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV HD 1
+http://watchindia.net:8880/live/54739/54739/843.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",Sun News
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music HD 2
+http://uk1.zecast.com:1935/star-live/smusic/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
+#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",SUN LIFE
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 2
+https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8?hdnts
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
+#EXTINF:-1  tvg-id="N/A" group-title="Othres",SATHIYAM_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",RAJ TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40821
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",POLIMER 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86133
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",Polimer
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NATIONAL GEOGRAPHIC HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NAT GEO WILD HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
+#EXTINF:-1  tvg-id="N/A" group-title="Othres",MOON_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",MK_TUNES
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86129
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MK_TELEVISION
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MK_SIX
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86127
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",MALAI_MURASU_SEITHIKAL
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86120
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MAKKAL_TV
+https://m-c18-j2apps.s.llnwi.net/hls/0211.MakkalTV.in.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",KTV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",KALAIGNAR_TV
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Comedy",KALAIGNAR_SIRIPPOLI
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",KALAIGNAR_SEITHIGAL
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86112
+#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",KALAIGNAR_MURASU
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86111
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",KALAIGNAR_ISAI_ARUVI
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
+#EXTINF:-1  tvg-id="N/A" group-title="Others",KALAIGNAR_CHITHIRAM
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",Jaya_Plus
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
+http://uk4.zecast.com:1935/star-live/jaya/chunklist_w2014047591.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Others",IMAYAM_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",IBC MUSIC
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Comedy",IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC CANADA TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY TAMIL
+https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Others",Dheeran_TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 1
+https://snehz5tv.herokuapp.com?c=0-9-ddpodhigai
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD
+http://watchindia.net:8880/live/54739/54739/2083.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",CAPTAIN_TV
+https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Comedy",ADHTIYA TV
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
