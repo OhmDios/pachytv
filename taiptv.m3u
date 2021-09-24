@@ -1,16 +1,18 @@
 #EXTM3U
-#EXTINF:-1 ,group-title="GENERAL ", COLORS TAMIL HD 1
-https://tvstream.space/jtv/zxytvXXv.php?c=Colors_Tamil_HD&=800&e=.m3u8
-#EXTINF:-1 ,group-title="GENERAL ",  Zee Tamil HD 1
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
+#EXTINF:-1 ,group-title="GENERAL ",  Zee Tamil HD 
+https://snehz5tv.herokuapp.com?c=0-9-zeetamil
+#EXTINF:-1 ,group-title="GENERAL ", COLORS TAMIL HD
+http://watchindia.net:8880/live/54739/54739/2083.m3u8
 #EXTINF:-1 ,group-title="GENERAL ", DD PODHIGAI 1
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
+https://snehz5tv.herokuapp.com?c=0-9-ddpodhigai
 #EXTINF:-1 ,group-title="GENERAL ", STAR VIJAY HD 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
 #EXTINF:-1 ,group-title="GENERAL ", SUN TV HD 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
 #EXTINF:-1 ,group-title="GENERAL",  Sun tv HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="MOVIES ", Zee Thirai
+https://snehz5tv.herokuapp.com?c=0-9-224 
 #EXTINF:-1 ,group-title="GENERAL ", ZEE TAMIL HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
 #EXTINF:-1 ,group-title="GENERAL ", COLORS TAMIL HD 2
@@ -37,6 +39,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
 https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 #EXTINF:-1 ,group-title="Comedy ", ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
+#EXTINF:-1 ,group-title="GENERAL ",  Zee Tamil HD 1
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
 #EXTINF:-1 ,group-title="Comedy ",  KALAIGNAR_SIRIPPOLI
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
 #EXTINF:-1 ,group-title="Knowledge ", DISCOVERY TAMIL
@@ -69,6 +73,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
 #EXTINF:-1 ,group-title="Others ",  Dheeran_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
+#EXTINF:-1 ,group-title="GENERAL ", DD PODHIGAI 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
 #EXTINF:-1 ,group-title="Others ",  IMAYAM_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
 #EXTINF:-1 ,group-title="NEWS ",  Jaya_Plus
