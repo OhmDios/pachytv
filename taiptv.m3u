@@ -1,18 +1,24 @@
 #EXTM3U
-#EXTINF:-1 ,group-title="GENERAL ",  Zee Tamil HD
+#EXTINF:-1 ,group-title="GENERAL ", COLORS TAMIL HD 1
+https://tvstream.space/jtv/zxytvXXv.php?c=Colors_Tamil_HD&=800&e=.m3u8
+#EXTINF:-1 ,group-title="GENERAL ",  Zee Tamil HD 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
-#EXTINF:-1 ,group-title="GENERAL ", COLORS TAMIL HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
-#EXTINF:-1 ,group-title="GENERAL ", DD PODHIGAI
+#EXTINF:-1 ,group-title="GENERAL ", DD PODHIGAI 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
-#EXTINF:-1 ,group-title="GENERAL ", STAR VIJAY HD
+#EXTINF:-1 ,group-title="GENERAL ", STAR VIJAY HD 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
-#EXTINF:-1 ,group-title="GENERAL ", SUN TV HD
+#EXTINF:-1 ,group-title="GENERAL ", SUN TV HD 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
-#EXTINF:-1 ,group-title="GENERAL",  Sun tv HD
+#EXTINF:-1 ,group-title="GENERAL",  Sun tv HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
-#EXTINF:-1 ,group-title="GENERAL ", ZEE TAMIL HD
+#EXTINF:-1 ,group-title="GENERAL ", ZEE TAMIL HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40835
+#EXTINF:-1 ,group-title="GENERAL ", COLORS TAMIL HD 2
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
+#EXTINF:-1 ,group-title="GENERAL ", VASANTH TV 1
+https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+#EXTINF:-1 ,group-title="MOVIES ", YUPP THIRAI 1
+http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
 #EXTINF:-1 ,group-title="GENERAL",  KALAIGNAR_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86114
 #EXTINF:-1 ,group-title="GENERAL ", JAYA TV HD
@@ -27,10 +33,14 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40821
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86127
 #EXTINF:-1 ,group-title="GENERAL ",  MK_TELEVISION
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86128
+#EXTINF:-1 ,group-title="Comedy ", IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 #EXTINF:-1 ,group-title="Comedy ", ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 #EXTINF:-1 ,group-title="Comedy ",  KALAIGNAR_SIRIPPOLI
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86113
+#EXTINF:-1 ,group-title="Knowledge ", DISCOVERY TAMIL
+https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
 #EXTINF:-1 ,group-title="Knowledge ", FOX LIFE HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1 ,group-title="Knowledge ", NAT GEO WILD HD
@@ -39,53 +49,57 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
 #EXTINF:-1 ,group-title="Knowledge ", SONY BBC EARTH HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
-#EXTINF:-1 ,group-title="Movies ", KTV HD
+#EXTINF:-1 ,group-title="MOVIES ", KTV HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
-#EXTINF:-1 ,group-title="Movies ", SUN LIFE
+#EXTINF:-1 ,group-title="MOVIES ", SUN LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
-#EXTINF:-1 ,group-title="Movies ",  KALAIGNAR_MURASU
+#EXTINF:-1 ,group-title="MOVIES ",  KALAIGNAR_MURASU
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86111
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_ISAI_ARUVI
+#EXTINF:-1 ,group-title="MUSIC ",  KALAIGNAR_ISAI_ARUVI
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
 #EXTINF:-1 ,group-title="GENERAL ",  IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1 ,group-title="GENERAL ",  IBC CANADA TAMIL
-https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
-#EXTINF:-1 ,group-title="Sneh |South India| ",  7SMUSIC
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,group-title="MUSIC ",  IBC MUSIC
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1 ,group-title="MUSIC ",  7SMUSIC
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86088
-#EXTINF:-1 ,Sneh TAMIL (HD)- ATHAVAN TV
+#EXTINF:-1 ,group-title="Others ", ATHAVAN TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40851
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Dheeran_TV
+#EXTINF:-1 ,group-title="Others ",  Dheeran_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
-#EXTINF:-1 ,group-title="Sneh |South India| ",  IMAYAM_TV
+#EXTINF:-1 ,group-title="Others ",  IMAYAM_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86105
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Jaihind
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86158
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Jaya_Plus
+#EXTINF:-1 ,group-title="NEWS ",  Jaya_Plus
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86064
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_SEITHIGAL
+#EXTINF:-1 ,group-title="NEWS ",  KALAIGNAR_SEITHIGAL
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86112
-#EXTINF:-1 ,group-title="Sneh |South India| ",  KALAIGNAR_CHITHIRAM
+#EXTINF:-1 ,group-title="Others ",  KALAIGNAR_CHITHIRAM
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MALAI_MURASU_SEITHIKAL
+#EXTINF:-1 ,group-title="NEWS ",  MALAI_MURASU_SEITHIKAL
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86120
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MK_TUNES
+#EXTINF:-1 ,group-title="MUSIC ",  MK_TUNES
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86129
-#EXTINF:-1 ,group-title="Sneh |South India| ",  MOON_TV
+#EXTINF:-1 ,group-title="Othres  ",  MOON_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86130
-#EXTINF:-1 ,group-title="Sneh |South India| ",  POLIMER
+#EXTINF:-1 ,group-title="NEWS ",  POLIMER 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86133
-#EXTINF:-1 ,group-title="Sneh |South India| ",  SATHIYAM_TV
+#EXTINF:-1 ,group-title="Othres  ",  SATHIYAM_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86143
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Sun Music HD
+#EXTINF:-1 ,group-title="MUSIC ",  Sun Music HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
-#EXTINF:-1 ,group-title="Sneh |South India| ",  Sun News
+#EXTINF:-1 ,group-title="MUSIC ",  Sun Music HD 2
+http://uk1.zecast.com:1935/star-live/smusic/chunklist.m3u8
+#EXTINF:-1 ,group-title="NEWS ",  Sun News
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
-#EXTINF:-1 ,group-title="Sneh |South India| ",  SUN_LIFE
+#EXTINF:-1 ,group-title="NEWS ", Polimer
+http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:-1 ,group-title="OLD ",  SUN_LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
-#EXTINF:-1 ,group-title="Sneh |South India| ",  TAMILAN_TELEVISION
+#EXTINF:-1 ,group-title="Othres  ",  TAMILAN_TELEVISION
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
-#EXTINF:-1 ,group-title="Sneh |South India| ",  WIN_TV
+#EXTINF:-1 ,group-title="Othres ",  WIN_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
 
 
