@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1  tvg-id="id" group-title="Group Title",SVBC 2
-https://m-c049-j2apps.s.llnwi.net/hls/5331.SVBC2.in.m3u8
+https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD
 https://snehz5tv.herokuapp.com?c=0-9-zeetamil
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
