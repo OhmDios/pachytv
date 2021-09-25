@@ -49,7 +49,7 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
 http://watchindia.net:8880/live/54739/54739/843.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",J News
-http://youtube.com/embed/2Y9uZTuYVko
+https://www.youtube.com/user/pbsguam/live
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",Sun News
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music HD 2
