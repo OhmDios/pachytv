@@ -115,6 +115,14 @@ https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40809
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",PUTHUYUGAM
+https://pachyzee5tv.herokuapp.com/?c=0-9-221
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",POLIMER-P
+https://pachyzee5tv.herokuapp.com/?c=0-9-203
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",PUTHIYA THALAIMURAI-P
+https://pachyzee5tv.herokuapp.com/?c=0-9-220
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",VENDHAR TV-P
+https://pachyzee5tv.herokuapp.com?c=0-9-306
 
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
