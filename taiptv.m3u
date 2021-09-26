@@ -105,6 +105,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86163
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86149
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",Polimer
 http://103.199.160.85/Content/polimer/Live/Channel(Polimer)/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",Polimer 2
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/3129ef23898443deab9d4e23034db3a8/index.m3u8?hdnts=st=1632638650~exp=1632641650~acl=/*~hmac=c68b688a81c7c173a130286738f859f5b9902e04190d29e4f7b000b023e2e2c9
 #EXTINF:-1  tvg-id="N/A" group-title="Others",Dheeran_TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86101
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 2
