@@ -2,19 +2,19 @@
 #EXTINF:-1  tvg-id="id" group-title="Group Title",SVBC 2
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD
-https://z5ams.akamaized.net/zeetamilhd/index.m3u8?hdnts=st=1632638080~exp=1632641080~acl=/*~hmac=89a002931972f9d87bf80b61ffa66c83c76fc11ce618084705bce9e2767a456b
+https://snehz5tvnew.herokuapp.com?c=0-9-zeetamil 
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Sun tv HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 
-https://pachyzee5tv.herokuapp.com/main.php?c=0-9-ddpodhigai
+https://snehz5tvnew.herokuapp.com?c=0-9-ddpodhigai 
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
 http://uk4.zecast.com:1935/star-live/jaya/chunklist_w2014047591.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD 1
 http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MAKKAL_TV
-https://z5ams.akamaized.net/out/v1/0a17c2870f43478f8130474d9680dcdd/index.m3u8?hdnts=st=1632638650~exp=1632641650~acl=/*~hmac=c68b688a81c7c173a130286738f859f5b9902e04190d29e4f7b000b023e2e2c9
+https://snehz5tvnew.herokuapp.com?c=0-9-makkaltv 
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MAKKAL_TV 2
 https://snehz5tv.herokuapp.com?c=0-9-makkaltv
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",VASANTH TV 1
