@@ -8,7 +8,7 @@ http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Sun tv HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 
-https://snehz5tv.herokuapp.com?c=0-9-ddpodhigai
+https://z5ams.akamaized.net/out/v1/ebd010e02926495ca566c4b1810eb18c/index.m3u8?hdnts=st=1632637531~exp=1632640531~acl=/*~hmac=c3745fd421a1d9dba8ed3df60f5017ffb126ebb9fb353f2228ea0f4fa8863654
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
 http://uk4.zecast.com:1935/star-live/jaya/chunklist_w2014047591.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD 1
