@@ -18,7 +18,7 @@ http://uk4.zecast.com:1935/star-live/jaya/chunklist_w2014047591.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD 1
 http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MAKKAL_TV
-https://pachyzee5tv.herokuapp.com/?c=0-9-makkaltv
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",VASANTH TV 1
 https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",CAPTAIN_TV
