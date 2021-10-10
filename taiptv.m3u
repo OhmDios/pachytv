@@ -62,6 +62,8 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY TAMIL
 https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
+https://tvstream.space/jtv/livetvv.php?c=Sony_BBC_Earth_HD_Tamil&=800&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
@@ -92,12 +94,12 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",J News
 https://youtu.be/2Y9uZTuYVko
+#EXTINF:-1  tvg-id="N/A" group-title="NEWS",THANTHI TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",POLIMER-P
 https://pachyzee5tv.herokuapp.com/?c=0-9-203
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",PUTHIYA THALAIMURAI-P
 https://pachyzee5tv.herokuapp.com/?c=0-9-220
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS",Thanthi TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",Sun News
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86067
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",Jaya_Plus
@@ -135,6 +137,10 @@ https://pachyzee5tv.herokuapp.com?c=0-9-306
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD
 http://watchindia.net:8880/live/54739/54739/2083.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY
+https://mhdtvworld.co.in/red/livee.php?id=2881&e=.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV MHDTV
+https://mhdtvworld.co.in/red/livee.php?id=2336&e=.m3u8
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="Comedy",7S MUSIC
