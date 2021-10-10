@@ -11,6 +11,8 @@ http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV HD 1
 http://watchindia.net:8880/live/54739/54739/843.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV MHDTV 3
+https://mhdtvworld.co.in/red/livee.php?id=2336&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 
 https://pachyzee5tv.herokuapp.com/?c=0-9-ddpodhigai
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
@@ -94,8 +96,6 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
 
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",J News
 https://youtu.be/2Y9uZTuYVko
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS",THANTHI TV
-https://vidcdn.vidgyor.com/thanthi-origin/liveabr/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",POLIMER-P
 https://pachyzee5tv.herokuapp.com/?c=0-9-203
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",PUTHIYA THALAIMURAI-P
@@ -139,8 +139,7 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
 http://watchindia.net:8880/live/54739/54739/2083.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY
 https://mhdtvworld.co.in/red/livee.php?id=2881&e=.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV MHDTV
-https://mhdtvworld.co.in/red/livee.php?id=2336&e=.m3u8
+
 
 
 #EXTINF:-1  tvg-id="N/A" group-title="Comedy",7S MUSIC
