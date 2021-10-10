@@ -21,14 +21,6 @@ http://uk4.zecast.com:1935/star-live/jaya/chunklist_w2014047591.m3u8
 http://103.217.221.64/snehjiotv/snehjioo.php?c=Colors_Tamil_HD&q=800&e=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MAKKAL_TV
-https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",VASANTH TV 1
-https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
-EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/xgEQiso.png",Peppers (576p)
-http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",CAPTAIN_TV
-https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8
 
 #EXTINF:-1  tvg-id="1" group-title="MOVIES",Zee Thirai
 https://pachyzee5tv.herokuapp.com?c=0-9-224
@@ -57,16 +49,6 @@ https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC CANADA TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",MK_TUNES
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MK_TELEVISION
-http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MK_SIX
-http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png",Asianet News Tamil (360p)
-https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
-
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY TAMIL
 https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
@@ -81,6 +63,24 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NAT GEO WILD HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
+
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MAKKAL_TV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",VASANTH TV 1
+https://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/playlist.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f
+EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/xgEQiso.png",Peppers (576p)
+http://103.199.160.85/Content/peppers/Live/Channel(Peppers)/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",CAPTAIN_TV
+https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",MK_TUNES
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MK_TELEVISION
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MK_SIX
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png",Asianet News Tamil (360p)
+https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music HD 2
 http://uk1.zecast.com:1935/star-live/smusic/chunklist.m3u8
