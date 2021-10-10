@@ -7,6 +7,8 @@ https://pachyzee5tv.herokuapp.com/?c=0-9-zeetamil
 https://mhdtvworld.co.in/red/livee.php?id=2881&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV SADA 1
+https://mhdtvworld.xyz/delta/api/max.php?id=12667&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV MHDTV 1
 https://mhdtvworld.co.in/red/livee.php?id=2336&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Sun tv HD 2
@@ -43,6 +45,11 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
 #EXTINF:-1  tvg-id="N/A" group-title="Comedy",ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 
+#EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON NETWORK
+https://tvstream.space/jtv/livetvv.php?c=Cartoon_Network_Tamil&=800&e=.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="KIDS",POGO
+https://tvstream.space/jtv/livetvv.php?c=Pogo_Tamil&=800&e=.m3u8
+
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",IBC MUSIC
@@ -66,6 +73,8 @@ https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
 https://tvstream.space/jtv/livetvv.php?c=Sony_BBC_Earth_HD_Tamil&=800&e=.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
+https://tvstream.space/jtv/livetvv.php?c=Animal_Planet_HD_Tamil&=800&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
@@ -94,8 +103,6 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86110
 #EXTINF:-1  tvg-id="N/A" group-title="Others",KALAIGNAR_CHITHIRAM
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86109
 
-#EXTINF:-1  tvg-id="N/A" group-title="NEWS",J News
-https://youtu.be/2Y9uZTuYVko
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",POLIMER-P
 https://pachyzee5tv.herokuapp.com/?c=0-9-203
 #EXTINF:-1  tvg-id="N/A" group-title="NEWS",PUTHIYA THALAIMURAI-P
