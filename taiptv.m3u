@@ -3,8 +3,8 @@
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD
 https://pachyzee5tv.herokuapp.com/?c=0-9-zeetamil
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY SD
-http://indo51.gcdn.co/TAMIL-StarvijaySD/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY
+https://mhdtvworld.co.in/red/livee.php?id=2881&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV MHDTV 1
@@ -137,11 +137,9 @@ https://pachyzee5tv.herokuapp.com?c=0-9-306
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40808
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",COLORS TAMIL HD
 http://watchindia.net:8880/live/54739/54739/2083.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY
-https://mhdtvworld.co.in/red/livee.php?id=2881&e=.m3u8
 
-
-
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY SD
+http://indo51.gcdn.co/TAMIL-StarvijaySD/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Comedy",7S MUSIC
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD 1
