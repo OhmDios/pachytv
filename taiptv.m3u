@@ -7,6 +7,8 @@ https://pachyzee5tv.herokuapp.com/?c=0-9-zeetamil
 https://mhdtvworld.co.in/red/livee.php?id=2881&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV SADA 1
+https://mhdtvworld.xyz/delta/api/max.php?id=12667&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV MHDTV 1
 https://mhdtvworld.co.in/red/livee.php?id=2336&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Sun tv HD 2
