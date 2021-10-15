@@ -58,6 +58,8 @@ https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY TAMIL
 https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY HD TAMIL
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_4.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
 https://tvstream.space/jtv/livtvvvz.php?c=Sony_BBC_Earth_HD_Tamil&=800&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
