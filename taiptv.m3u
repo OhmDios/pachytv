@@ -8,13 +8,13 @@ https://mhdtvworld.co.in/red/livee.php?id=2881&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV SADA 1
-https://mhdtvworld.xyz/delta/api/max.php?id=12667&e=.m3u8
+http://veganxe.com/api/ytv/play.php?c=12667
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV airtel 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Sun tv HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV MHDTV 3
-https://mhdtvworld.co.in/red/xmhd.php?id=2336&e=.m3u8
+https://mhdtvworld.co.in/red/play2.php?c=2336
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 
 https://pachyzee5tv.herokuapp.com/?c=0-9-ddpodhigai
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
@@ -44,9 +44,9 @@ https://mhdtvworld.co.in/red/livvee.php?id=2326&e=.m3u8
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 
 #EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON NETWORK
-https://tvstream.space/jtv/livtv.php?c=Cartoon_Network_Tamil&=800&e=.m3u8
+https://tvstream.space/jtv/play2.php?c=Cartoon_Network_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="KIDS",POGO
-https://tvstream.space/jtv/livtv.php?c=Pogo_Tamil&=800&e=.m3u8
+https://tvstream.space/jtv/play2.php?c=Pogo_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",IBC MUSIC
@@ -61,13 +61,15 @@ https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY HD TAMIL
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_4.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
-https://tvstream.space/jtv/livtvvvz.php?c=Sony_BBC_Earth_HD_Tamil&=800&e=.m3u8
+https://tvstream.space/jtv/play2.php?c=Sony_BBC_Earth_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
-https://tvstream.space/jtv/livetvv.php?c=Animal_Planet_HD_Tamil&=800&e=.m3u8
+https://tvstream.space/jtv/play2.php?c=Animal_Planet_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY YAY
+https://tvstream.space/jtv/play2.php?c=Sony_Yay_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NATIONAL GEOGRAPHIC HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NAT GEO WILD HD
