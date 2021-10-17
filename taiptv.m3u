@@ -37,7 +37,7 @@ https://pachyzee5tv.herokuapp.com?c=0-9-224
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",YUPP THIRAI 1
 http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",JAYA MOVIES
-https://tvstream.space/jtv/livtv.php?c=J_Movies&=800&e=.m3u8
+https://pachytvstream.herokuapp.com/?c=J_Movies
 #EXTINF:-1  tvg-id="N/A" group-title="OLD",SUN_LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",KTV HD
@@ -50,9 +50,11 @@ https://mhdtvworld.co.in/red/livvee.php?id=2326&e=.m3u8
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 
 #EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON NETWORK
-https://tvstream.space/jtv/play2.php?c=Cartoon_Network_Tamil&e=.m3u8
+https://pachytvstream.herokuapp.com/?c=Cartoon_Network_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="KIDS",POGO
-https://tvstream.space/jtv/play2.php?c=Pogo_Tamil&e=.m3u8
+https://pachytvstream.herokuapp.com/?c=Pogo_Tamil
+#EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON HD
+https://pachytvstream.herokuapp.com/?c=CN_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",IBC MUSIC
@@ -67,19 +69,21 @@ https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY HD TAMIL
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_4.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
-https://tvstream.space/jtv/play2.php?c=Sony_BBC_Earth_HD_Tamile=.m3u8
+https://pachytvstream.herokuapp.com/?c=Sony_BBC_Earth_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
-https://tvstream.space/jtv/play2.php?c=Animal_Planet_HD_Tamile=.m3u8
+https://pachytvstream.herokuapp.com/?c=Animal_Planet_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY YAY
-https://tvstream.space/jtv/play2.php?c=Sony_Yay_Tamile=.m3u8
+https://pachytvstream.herokuapp.com/?c=Sony_Yay_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NATIONAL GEOGRAPHIC HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NAT GEO WILD HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40817
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",HISTORY TV TAMIL
+https://pachytvstream.herokuapp.com/?c=History_18_TamilHistory
 
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",MAKKAL_TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
@@ -106,7 +110,7 @@ https://mhdtvworld.co.in/red/livvee.php?id=2832&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",JAYA MAX Music HD
-https://tvstream.space/jtv/livtv.php?c=Jaya_Max&=800&e=.m3u8
+https://pachytvstream.herokuapp.com/?c=Jaya_Max
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",TET TV
 http://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",KALAIGNAR_TV
