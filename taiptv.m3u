@@ -3,18 +3,20 @@
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD
 https://pachyzee5tv.herokuapp.com/?c=0-9-zeetamil
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD
-http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40824.ts
+#EXTINF:-1 tvg-id="N/A" group-title="GENERAL",VIJAY FHD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86181
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",STAR VIJAY HD 1-MH
 http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.sundirect.in/Content/Uploads/Blocks/636928288478401836_sun-tv-hd.png" group-title="Tamil;Entertainment",Sun TV HD
-http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40828.ts
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",SUN TV airtel 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40828
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Sun tv HD 2
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86065
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="Tamil;Entertainment",Star Vijay HD 3
-http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:-1 tvg-id="N/A" group-title="GENERAL", Sun TV HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/87329
+#EXTINF:-1tvg-id="N/A" group-title="GENERAL", SUN TV FHD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86180
+#EXTINF:-1 tvg-id="N/A" group-title="GENERAL", Colors Tamil HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/87267
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 
 https://pachyzee5tv.herokuapp.com/?c=0-9-ddpodhigai
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
@@ -46,16 +48,14 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 https://pachyzee5tv.herokuapp.com?c=0-9-224
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",YUPP THIRAI 1
 http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/Star_Vijay_Super_2019.png/revision/latest/scale-to-width-down/200?cb=20210319232047" group-title="Tamil;Movies",Vijay Super
-http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40832.ts
+
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",JAYA MOVIES
 https://pachytvstream.herokuapp.com/?c=J_Movies
 #EXTINF:-1  tvg-id="N/A" group-title="OLD",SUN_LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",KTV HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
-#EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/ktv-hd.gif" group-title="Tamil; Movies",K TV 2
-http://ts.nsfms.com:2082/live/Red123_394985/sikXriN2I7/40815.ts
+
 
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",SUN LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
@@ -118,8 +118,7 @@ http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png",Asianet News Tamil (360p)
 https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/19/Vijay_musicBig.png/revision/latest/scale-to-width-down/230?cb=20200217033512" group-title="Tamil;Music",Vijay Music
-http://212.224.98.213:2200/R-EX/Star_Viyaj_Music-in/index.m3u8?token=rk
+
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music HD 2
 http://uk1.zecast.com:1935/star-live/smusic/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music MHDTV 1
