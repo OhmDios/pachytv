@@ -15,32 +15,15 @@ http://139.59.55.243/sunnxt/live.php?c=9013
 http://139.59.55.243/sunnxt/live.php?c=26569
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9023/500x750_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg" group-title="SUNNXT-LIVE",ADITHYA TV
 http://139.59.55.243/sunnxt/live.php?c=9023
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26567/500x750_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg" group-title="SUNNXT-LIVE",CHUTTI TV
-http://139.59.55.243/sunnxt/live.php?c=26567
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26566/500x750_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg" group-title="SUNNXT-LIVE",KTV HD
 http://139.59.55.243/sunnxt/live.php?c=26566
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/32138/500x750_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg" group-title="SUNNXT-LIVE",KTV
 http://139.59.55.243/sunnxt/live.php?c=32138
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9025/500x750_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg" group-title="SUNNXT-LIVE",SUN MUSIC
-http://139.59.55.243/sunnxt/live.php?c=9025
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg" group-title="SUNNXT-LIVE",GEMINI TV HD
-http://139.59.55.243/sunnxt/live.php?c=14019
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26570/500x750_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES HD
-http://139.59.55.243/sunnxt/live.php?c=26570
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26568/500x750_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg" group-title="SUNNXT-LIVE",GEMINI MUSIC HD
-http://139.59.55.243/sunnxt/live.php?c=26568
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9027/500x750_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg" group-title="SUNNXT-LIVE",GEMINI COMEDY
-http://139.59.55.243/sunnxt/live.php?c=9027
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26572/500x750_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg" group-title="SUNNXT-LIVE",GEMINI LIFE
-http://139.59.55.243/sunnxt/live.php?c=26572
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26571/500x750_KushiTV_26571_6a972e5a-f624-4e0e-ac68-1689dab237db.jpg" group-title="SUNNXT-LIVE",KUSHI TV
-http://139.59.55.243/sunnxt/live.php?c=26571
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9017/500x750_GeminiTV_9017_4f62fbf5-46da-4d56-8998-0c2deb3b3797.jpg" group-title="SUNNXT-LIVE",GEMINI TV
-http://139.59.55.243/sunnxt/live.php?c=9017
-#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9015/500x750_GeminiMovies_9015_59935728-bfc4-4dd1-ba3e-3f4c50c49bc6.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES
-http://139.59.55.243/sunnxt/live.php?c=9015
-
+#EXTINF:-1  tvg-id="1" group-title="MOVIES",Zee Thirai
+https://pachyzee5tv.herokuapp.com?c=0-9-224
+#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",YUPP THIRAI 1
+http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",DD PODHIGAI 
 https://pachyzee5tv.herokuapp.com/?c=0-9-ddpodhigai
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
@@ -51,6 +34,8 @@ http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
 http://manastv.xyz//m3u8.php?c=Colors_Tamil_HD&q=800
 #EXTINF:-1 tvg-id="420" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Tamil",Jaya Max
 http://manastv.xyz//m3u8.php?c=Jaya_Max&q=800
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9025/500x750_SunMusic_9025_ce616d71-a7be-4895-9c88-26f6fb8e796f.jpg" group-title="SUNNXT-LIVE",SUN MUSIC
+http://139.59.55.243/sunnxt/live.php?c=9025
 #EXTINF:-1 tvg-id="546" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Tamil",Nick Tamil
 http://manastv.xyz//m3u8.php?c=Nick_Tamil&q=800
 #EXTINF:-1 tvg-id="542" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Tamil",Pogo Tamil
@@ -171,6 +156,23 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI LIFESTLYE
 http://singamcloud.in:1935/rasinetwork/cookings/chunklist.m3u8
 
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14019/500x750_GeminiTVHD_14019_5fa8aaf5-5e27-464c-872c-7e1bf293cf93.jpg" group-title="SUNNXT-LIVE",GEMINI TV HD
+http://139.59.55.243/sunnxt/live.php?c=14019
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26570/500x750_GeminiMoviesHD_26570_743fe85a-9e51-4507-b702-c63590daa3d2.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES HD
+http://139.59.55.243/sunnxt/live.php?c=26570
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26568/500x750_GeminiMusicHD_26568_cbcdc74e-84c6-45a0-b5ed-a5c0059464e1.jpg" group-title="SUNNXT-LIVE",GEMINI MUSIC HD
+http://139.59.55.243/sunnxt/live.php?c=26568
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9027/500x750_GeminiComedy_9027_d7c77356-6721-41c4-825a-8755000b40db.jpg" group-title="SUNNXT-LIVE",GEMINI COMEDY
+http://139.59.55.243/sunnxt/live.php?c=9027
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26572/500x750_GeminiLife_26572_5e588a65-6d80-4abe-a788-dd8e43f5fe14.jpg" group-title="SUNNXT-LIVE",GEMINI LIFE
+http://139.59.55.243/sunnxt/live.php?c=26572
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26571/500x750_KushiTV_26571_6a972e5a-f624-4e0e-ac68-1689dab237db.jpg" group-title="SUNNXT-LIVE",KUSHI TV
+http://139.59.55.243/sunnxt/live.php?c=26571
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9017/500x750_GeminiTV_9017_4f62fbf5-46da-4d56-8998-0c2deb3b3797.jpg" group-title="SUNNXT-LIVE",GEMINI TV
+http://139.59.55.243/sunnxt/live.php?c=9017
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9015/500x750_GeminiMovies_9015_59935728-bfc4-4dd1-ba3e-3f4c50c49bc6.jpg" group-title="SUNNXT-LIVE",GEMINI MOVIES
+http://139.59.55.243/sunnxt/live.php?c=9015
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p)
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
@@ -181,10 +183,7 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
-#EXTINF:-1  tvg-id="1" group-title="MOVIES",Zee Thirai
-https://pachyzee5tv.herokuapp.com?c=0-9-224
-#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",YUPP THIRAI 1
-http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
+
 
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",JAYA MOVIES
 https://pachytvstream.herokuapp.com/?c=J_Movies
@@ -325,3 +324,5 @@ http://indo51.gcdn.co/TAMIL-StarvijaySD/index.m3u8
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD 1
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86079
+#EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26567/500x750_ChuttiTV_26567_f5c8f413-9a9c-4e75-ab9c-ae52e44230bf.jpg" group-title="SUNNXT-LIVE",CHUTTI TV
+http://139.59.55.243/sunnxt/live.php?c=26567
