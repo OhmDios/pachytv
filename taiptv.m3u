@@ -47,6 +47,8 @@ https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/i
 https://pachytvstream.herokuapp.com/?c=Sony_BBC_Earth_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
 https://pachytvstream.herokuapp.com/?c=Animal_Planet_HD_Tamil
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY YAY
+https://pachytvstream.herokuapp.com/?c=Sony_Yay_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
@@ -163,12 +165,9 @@ http://manastv.xyz//m3u8.php?c=Animal_Planet_HD_Tamil&q=800
 http://manastv.xyz//m3u8.php?c=Aastha_Tamil&q=800
 #EXTINF:-1 tvg-id="1417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" group-title="Tamil",SVBC2
 http://manastv.xyz//m3u8.php?c=SVBC2&q=800
-#EXTINF:-1 tvg-id="1438" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="Tamil",Velukkudi Discourses
-http://manastv.xyz//m3u8.php?c=Velukkudi_Discourses&q=800
 #EXTINF:-1 tvg-id="1515" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="Tamil",News J
 http://manastv.xyz//m3u8.php?c=News_J&q=800
-#EXTINF:-1 tvg-id="1537" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="Tamil",RadheKrishna TV
-http://manastv.xyz//m3u8.php?c=RadheKrishna_TV&q=800
+
 
 #EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
 http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
@@ -217,8 +216,6 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
 
-
-
 #EXTINF:-1  tvg-id="N/A" group-title="OLD",SUN_LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",KTV HD
@@ -230,14 +227,9 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
 #EXTINF:-1  tvg-id="N/A" group-title="Comedy",ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 
-
-
-
-
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
-#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY YAY
-https://pachytvstream.herokuapp.com/?c=Sony_Yay_Tamil
+
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NATIONAL GEOGRAPHIC HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40818
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",NAT GEO WILD HD
