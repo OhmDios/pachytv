@@ -48,6 +48,7 @@ https://pachytvstream.herokuapp.com/?c=Sony_BBC_Earth_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
 https://pachytvstream.herokuapp.com/?c=Animal_Planet_HD_Tamil
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",IBC MUSIC
@@ -232,7 +233,7 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 
 
 
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
+
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY YAY
