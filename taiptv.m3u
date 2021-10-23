@@ -16,10 +16,13 @@ http://139.59.55.243/sunnxt/live.php?c=26569
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9023/500x750_AdithyaTV_9023_8d1754a9-b044-4782-9bf6-f8eec1c7a165.jpg" group-title="SUNNXT-LIVE",ADITHYA TV
 http://139.59.55.243/sunnxt/live.php?c=9023
 
+#EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/26566/500x750_KTVHD_26566_3f1d6cd3-6142-43b8-b78c-860477a91b90.jpg" group-title="SUNNXT-LIVE",KTV HD
 http://139.59.55.243/sunnxt/live.php?c=26566
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/32138/500x750_KTV_32138_d242116d-02e1-44d3-ae76-0e2096c8667d.jpg" group-title="SUNNXT-LIVE",KTV
 http://139.59.55.243/sunnxt/live.php?c=32138
+
+#EXTM3U
 #EXTINF:-1  tvg-id="1" group-title="MOVIES",Zee Thirai
 https://pachyzee5tv.herokuapp.com?c=0-9-224
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",YUPP THIRAI 1
@@ -28,6 +31,35 @@ http://119.81.82.28/encoded/yuppthirai_800/chunklist.m3u8
 https://pachyzee5tv.herokuapp.com/?c=0-9-ddpodhigai
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",JAYA TV HD
 http://uk4.zecast.com:1935/star-live/jaya/chunklist_w875183983.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",JAYA MAX Music HD
+https://pachytvstream.herokuapp.com/?c=Jaya_Max
+#EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON NETWORK
+https://pachytvstream.herokuapp.com/?c=Cartoon_Network_Tamil
+#EXTINF:-1  tvg-id="N/A" group-title="KIDS",POGO
+https://pachytvstream.herokuapp.com/?c=Pogo_Tamil
+#EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON HD
+https://pachytvstream.herokuapp.com/?c=CN_HD_Tamil
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY TAMIL
+https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY HD TAMIL
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_4.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
+https://pachytvstream.herokuapp.com/?c=Sony_BBC_Earth_HD_Tamil
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
+https://pachytvstream.herokuapp.com/?c=Animal_Planet_HD_Tamil
+#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",IBC MUSIC
+https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Comedy",IBC COMEDY
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC CANADA TAMIL
+https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",JAYA MOVIES
+https://pachytvstream.herokuapp.com/?c=J_Movies
+
+#EXTM3U
 #EXTINF:-1 tvg-id="628" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Tamil",Zee Tamil
 http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
 #EXTINF:-1 tvg-id="429" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Tamil",Colors Tamil HD
@@ -185,8 +217,7 @@ https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a0
 
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",JAYA MOVIES
-https://pachytvstream.herokuapp.com/?c=J_Movies
+
 #EXTINF:-1  tvg-id="N/A" group-title="OLD",SUN_LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86066
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",KTV HD
@@ -195,35 +226,12 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/40815
 
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES",SUN LIFE
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40825
-#EXTINF:-1  tvg-id="N/A" group-title="MOVIES",SUN LIFE MHDTV
-https://mhdtvworld.co.in/red/livvee.php?id=2326&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Comedy",ADHTIYA TV
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40805
 
-#EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON NETWORK
-https://pachytvstream.herokuapp.com/?c=Cartoon_Network_Tamil
-#EXTINF:-1  tvg-id="N/A" group-title="KIDS",POGO
-https://pachytvstream.herokuapp.com/?c=Pogo_Tamil
-#EXTINF:-1  tvg-id="N/A" group-title="KIDS",CARTOON HD
-https://pachytvstream.herokuapp.com/?c=CN_HD_Tamil
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC TAMIL
-https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",IBC MUSIC
-https://tx1.ibctamil.tv/CDN_IBC_Isai/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Comedy",IBC COMEDY
-https://tx1.ibctamil.tv/CDN_IBC_Pakidi/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="GENERAL",IBC CANADA TAMIL
-https://tx1.ibctamil.tv/CDN_IBC_Canada/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY TAMIL
-https://idvd.multitvsolution.com/idvo/discoverytamil.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",DISCOVERY HD TAMIL
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_4.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH TAMIL
-https://pachytvstream.herokuapp.com/?c=Sony_BBC_Earth_HD_Tamil
-#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",ANIMAL PLANET
-https://pachytvstream.herokuapp.com/?c=Animal_Planet_HD_Tamil
-#EXTINF:-1  tvg-id="N/A" group-title="Knowledge",FOX LIFE HD
+
+
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40811
 #EXTINF:-1  tvg-id="N/A" group-title="Knowledge",SONY BBC EARTH HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40823
@@ -261,8 +269,7 @@ http://uk1.zecast.com:1935/star-live/smusic/chunklist.m3u8
 https://mhdtvworld.co.in/red/livvee.php?id=2832&e=.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="MUSIC",Sun Music HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86073
-#EXTINF:-1  tvg-id="N/A" group-title="MUSIC",JAYA MAX Music HD
-https://pachytvstream.herokuapp.com/?c=Jaya_Max
+
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",TET TV
 http://yuppmslukmo1.akamaized.net/hls/live/2005258/tet/tet/playlist.m3u8?hdnts=st=1616241422~exp=1716241322~acl=*/tet/*~data=TET_Internal_Monitoring~hmac=e0e0453fa1591de262f4beb3fb32ca108486360c9ca7e195e5e87c5c46f9852d
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",KALAIGNAR_TV
