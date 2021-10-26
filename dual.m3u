@@ -2,7 +2,8 @@
 #EXTINF:-1  tvg-id="id" group-title="Religion",SVBC 2
 https://player.mslivestream.net/tamil/ac206e74d75b285755ee4924df87d951.sdp/index.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="GENERAL",Zee Tamil HD
-http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800,https://pachyzee5tv.herokuapp.com/?c=0-9-zeetamil
+http://manastv.xyz//m3u8.php?c=Zee_Tamil&q=800
+https://pachyzee5tv.herokuapp.com/?c=0-9-zeetamil
 
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/14020/500x750_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg" group-title="SUNNXT-LIVE",SUN TV HD
