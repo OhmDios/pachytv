@@ -16,8 +16,8 @@ http://139.59.55.243/sunnxt/live.php?c=14020
 #EXTINF:-1 tvg-id="1" tvg-logo="https://sund-images.sunnxt.com/9016/500x750_SunTV_9016_2f6432cf-c588-4fe3-a7d8-76ca4abe64b4.jpg" group-title="GENERAL", SUN TV
 http://139.59.55.243/sunnxt/live.php?c=9016
 #EXTINF:-1  tvg-id="1" tvg-logo="https://img2.pngio.com/star-vijay-logopedia-fandom-star-vijay-png-600_365.png" group-title="GENERAL", STAR VIJAY SD
-http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/40824
+http://93.190.139.35:8278/streams/d/starvijay/playlist.m3u8
 http://indo51.gcdn.co/TAMIL-StarvijaySD/index.m3u8
 #EXTINF:-1  tvg-id="1" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077.png" group-title="GENERAL", DD PODHIGAI 
 https://zee5rail.up.railway.app/?c=0-9-ddpodhigai
